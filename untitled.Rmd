@@ -27,7 +27,7 @@ plot(cars)
 Load the data
 
 ```{r}
-gap <-read.csv(curl("http://bit.ly/gap_data"))
+gap <-read.csv(curl("http://bit.ly/gap_data_upd"))
 ```
 
 Subset and visualize
